@@ -1,4 +1,4 @@
-## Random Cat Generator with Next.js
+## Random Cat Generator
 
 This repository contains a simple web application built with Next.js that generates random cat images using an external API. Users can enjoy endless entertainment by refreshing the page to see new and adorable cat pictures.
 
